@@ -25,11 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Story-Driven RPG Battle Guide",
   description: "Explore Deltarune Kris fight guides, boss strategies, battle mechanics, attacks, choices, routes, and story encounters in one focused resource.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://deltarunefightroblox.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://deltarunefightroblox.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://deltarune.com/",
-  heroVideoId: "WHnjKwVKIjg", // DELTARUNE: VS. Kris FULL FIGHT (gameplay showcase)
+  supportEmail: "support@deltarunefightroblox.top",
+  gameUrl: "https://store.steampowered.com/app/1671210/DELTARUNE/",
+  heroVideoId: "P3rE7su1Fxg", // DELTARUNE Chapter 5 - Launch Trailer (official)
   social: {
-    youtube: "https://www.youtube.com/@DeltaruneOfficial",
+    discord: "https://www.reddit.com/r/Deltarune/",
+    youtube: "https://www.youtube.com/@UNDERTALEOfficial",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
