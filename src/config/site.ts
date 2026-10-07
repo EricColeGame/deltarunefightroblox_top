@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/Deltarune/",
     youtube: "https://www.youtube.com/@UNDERTALEOfficial",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
