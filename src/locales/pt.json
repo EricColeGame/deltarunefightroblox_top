@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Deltarune Kris Fight Wiki",
+    "shortName": "Deltarune Kris Fight",
+    "tagline": "Guia de batalha para um RPG narrativo",
+    "description": "Explore guias da luta do Kris em Deltarune, estratégias contra chefes, mecânicas de batalha, ataques, escolhas, rotas e encontros da história em um único recurso.",
+    "legalNotice": "Wiki de fãs não oficial. Sem afiliação com Toby Fox ou DELTARUNE."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guias",
+    "combat": "Combate",
+    "characters": "Personagens",
+    "mechanics": "Mecânicas",
+    "themes": "Temas",
+    "fangames": "Fan Games"
+  },
+  "home": {
+    "meta": {
+      "title": "Deltarune Kris Fight Wiki - Chefes, guias e segredos",
+      "description": "A Deltarune Kris Fight Wiki cobre as batalhas do Kris, estratégias contra chefes, mecânicas de batalha, personagens e encontros importantes da história para os jogadores."
+    },
+    "hero": {
+      "eyebrow": "Guia de batalha para um RPG narrativo",
+      "title": "Deltarune Kris Fight Wiki",
+      "description": "Um guia focado nas lutas do Kris, mecânicas de batalha, chefes, rotas, ataques, escolhas e encontros da história em Deltarune.",
+      "stats": [
+        "Guia da luta do Kris",
+        "Estratégias contra chefes",
+        "Mecânicas de batalha",
+        "Escolhas da história"
+      ],
+      "primaryCta": "Guia da luta do Kris",
+      "secondaryCta": "Guia de chefes",
+      "tertiaryCta": "Guia por capítulos",
+      "videoLabel": "Trailer oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada na luta do Kris em Deltarune",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o ciclo de batalha em quatro etapas, como ler os nomes dos inimigos e os primeiros movimentos que todo novo jogador da luta do Kris em Deltarune deve fazer."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos de combate",
+          "description": "Cronometre a barra de FIGHT do Kris, desvie dos padrões de projéteis com o SOUL e mantenha o grupo de pé nas primeiras batalhas contra chefes."
+        },
+        {
+          "number": "3",
+          "title": "Mecânicas de TP e ACT",
+          "description": "Acumule Pontos de Tensão ao raspar nos projéteis e ao defender, depois gaste-os em magias, cura e nas ACT que desbloqueiam um SPARE pacífico."
+        },
+        {
+          "number": "4",
+          "title": "Papéis do grupo",
+          "description": "Entenda o que Kris, Susie, Ralsei e Noelle trazem para cada luta do Kris em Deltarune, para planejar cada turno com propósito."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Mecânicas de batalha",
+        "Atributos do Kris",
+        "Guia de chefes"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Fundamentos de combate, gestão de TP e dicas de ACT que levam os novos jogadores pelos primeiros encontros.",
+          "href": "/guide/deltarune-kris-fight-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Guia de chefes",
+          "description": "Papéis do grupo, gasto de TP e táticas turno a turno para cada grande batalha contra chefes liderada pelo Kris.",
+          "href": "/guide/deltarune-kris-fight-boss-guide"
+        },
+        {
+          "badge": "Essencial",
+          "title": "Mecânicas de batalha",
+          "description": "Como o Kris ataca, age e acumula TP durante a fase de comandos e a fase de esquiva.",
+          "href": "/mechanics/deltarune-kris-fight-battle-mechanics"
+        },
+        {
+          "badge": "Dados",
+          "title": "Atributos do Kris",
+          "description": "O papel do Kris, sua arma, seu HP e as opções de ACT que fazem dele a âncora do grupo.",
+          "href": "/characters/deltarune-kris-fight-kris-stats"
+        },
+        {
+          "badge": "Popular",
+          "title": "Grupo e personagens",
+          "description": "Kris, Susie, Ralsei, Noelle e o resto do elenco classificados pelo impacto em batalha.",
+          "href": "/characters"
+        },
+        {
+          "badge": "História",
+          "title": "Guia do Capítulo 4",
+          "description": "Como o encontro tardio com o Kris é estruturado, o que ele exige de você e como as escolhas mudam o tom.",
+          "href": "/guide/deltarune-kris-fight-chapter-4"
+        },
+        {
+          "badge": "Rota",
+          "title": "Rota Snowgrave",
+          "description": "A rota oculta, seus encontros únicos e o final bem diferente para o qual ela leva.",
+          "href": "/guide/deltarune-kris-fight-snowgrave"
+        },
+        {
+          "badge": "Fã",
+          "title": "Fan Games",
+          "description": "Batalhas feitas por fãs que colocam o Kris como oponente e reconstroem a luta como um combate contra chefe.",
+          "href": "/fangames"
+        },
+        {
+          "badge": "Temas",
+          "title": "Temas e música",
+          "description": "A música, os sprites e os motivos recorrentes que definem a luta do Kris em Deltarune.",
+          "href": "/themes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é a luta do Kris em Deltarune?",
+      "paragraphs": [
+        "A luta do Kris em Deltarune é o apelido que a comunidade dá às batalhas e aos momentos de história construídos em torno de Kris, o silencioso protagonista humano de DELTARUNE. DELTARUNE é o RPG episódico do criador de Undertale, Toby Fox, ambientado em um mundo paralelo onde Kris lidera Susie, Ralsei e Noelle pelos Mundos Sombrios, batalhas por turnos e sequências de esquiva de projéteis. Quem procura pela luta do Kris em Deltarune geralmente quer dizer uma de três coisas: os encontros comuns comandados por Kris, os momentos de fim de capítulo em que Kris age por conta própria, ou as batalhas feitas por fãs que colocam o Kris como oponente.",
+        "Toda luta do Kris em Deltarune segue o mesmo ciclo. Você planeja um turno com FIGHT, ACT, MAGIC, ITEM, DEFEND e SPARE, depois desvia de um padrão de projéteis enquanto controla o SOUL vermelho dentro do Kris. Raspar nos projéteis e acertar ACT gera Pontos de Tensão, o recurso compartilhado que paga a cura e as magias, e as ACT certas deixam o nome de um inimigo amarelo para que o SPARE encerre a batalha sem mortes. DELTARUNE está disponível para PC, Mac, Nintendo Switch e PlayStation, com os primeiros capítulos gratuitos e a história continuando nos capítulos pagos seguintes."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "Toby Fox"
+        },
+        {
+          "label": "Série",
+          "value": "Undertale"
+        },
+        {
+          "label": "Gênero",
+          "value": "RPG episódico"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC / Switch / PS"
+        },
+        {
+          "label": "Protagonista",
+          "value": "Kris"
+        },
+        {
+          "label": "Grupo",
+          "value": "Kris, Susie, Ralsei, Noelle"
+        },
+        {
+          "label": "Estilo de batalha",
+          "value": "Por turnos + esquiva de projéteis"
+        },
+        {
+          "label": "Primeiros capítulos",
+          "value": "Grátis para jogar"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Deltarune Kris Fight Wiki",
+      "description": "Oito módulos focados na luta do Kris em Deltarune: como ela funciona, como chegar até ela, os padrões de ataque, os personagens, as escolhas, os segredos, os controles e as últimas atualizações.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia da luta do Kris em Deltarune",
+          "description": "Como funciona uma luta do Kris em Deltarune, da primeira fase de comandos ao SPARE final, incluindo o tempo da barra de FIGHT, as opções de ACT, o gasto de TP e as estratégias que mantêm o grupo vivo.",
+          "href": "/guide/deltarune-kris-fight-boss-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Leia o inimigo com Check antes de se comprometer com qualquer ataque"
+            },
+            {
+              "label": "2",
+              "detail": "Pare a barra de FIGHT do Kris perto do centro para o dano máximo"
+            },
+            {
+              "label": "3",
+              "detail": "Raspe nos projéteis durante a fase de esquiva para acumular Pontos de Tensão"
+            },
+            {
+              "label": "4",
+              "detail": "Gaste TP em Heal Prayer e Pacify em vez de arriscar rajadas"
+            },
+            {
+              "label": "5",
+              "detail": "Use as ACT certas até o nome do inimigo ficar amarelo"
+            },
+            {
+              "label": "6",
+              "detail": "Confirme SPARE para encerrar a luta do Kris sem mortes"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Passo a passo da luta do Kris",
+          "description": "Um passo a passo focado na progressão da rota, dos encontros e das decisões de história que levam à luta tardia do Kris em Deltarune, organizado na ordem em que você os encontra.",
+          "href": "/guide/deltarune-kris-fight-chapter-4",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Termine os primeiros capítulos do Mundo Sombrio com todo o grupo recrutado"
+            },
+            {
+              "label": "2",
+              "detail": "Estoque itens de cura e guarde uma reserva de TP antes do final"
+            },
+            {
+              "label": "3",
+              "detail": "Acompanhe as escolhas de rota que mudam quem fica ao lado do Kris"
+            },
+            {
+              "label": "4",
+              "detail": "Passe pelos encontros que bloqueiam a luta do Kris no Capítulo 4"
+            },
+            {
+              "label": "5",
+              "detail": "Sobreviva à sequência roteirizada em que o controle sai das mãos do jogador"
+            },
+            {
+              "label": "6",
+              "detail": "Assista ao desfecho para ver as consequências das suas escolhas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Ataques da luta do Kris em Deltarune",
+          "description": "Um catálogo dos padrões de ataque de uma luta do Kris em Deltarune e como reconhecer, desviar e responder a cada sequência.",
+          "href": "/mechanics/deltarune-kris-fight-battle-mechanics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Projéteis",
+              "detail": "Os padrões de projéteis preenchem a caixa durante a fase de esquiva; mova o SOUL com as setas"
+            },
+            {
+              "label": "Raspar",
+              "detail": "Passe bem perto dos projéteis sem tocá-los para acumular Pontos de Tensão"
+            },
+            {
+              "label": "Tempo",
+              "detail": "A barra de FIGHT do Kris recompensa parar perto do centro com o golpe mais forte"
+            },
+            {
+              "label": "Agir",
+              "detail": "A lista de ACT do Kris muda conforme o inimigo e muitas vezes desbloqueia um SPARE"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Personagens da luta do Kris em Deltarune",
+          "description": "Os personagens que moldam uma luta do Kris em Deltarune, classificados pelo quanto mudam a batalha quando estão no seu grupo.",
+          "href": "/characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Kris - líder do grupo, com a maior lista de ACT e o comando Check"
+            },
+            {
+              "label": "A",
+              "detail": "Ralsei - Heal Prayer e Pacify mantêm todo o grupo de pé"
+            },
+            {
+              "label": "B",
+              "detail": "Susie - o maior dano físico com golpes pesados e Rude Buster"
+            },
+            {
+              "label": "C",
+              "detail": "Noelle - magia de gelo e Sleep Mist, mais forte quando preparada"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Escolhas da luta do Kris em Deltarune",
+          "description": "As escolhas de combate e de história em torno de uma luta do Kris em Deltarune, de poupar todos os inimigos à rota alternativa que muda o final.",
+          "href": "/guide/deltarune-kris-fight-weird-route",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pacifista",
+              "detail": "Poupe todos os inimigos e mantenha intacta a rota de misericórdia do grupo"
+            },
+            {
+              "label": "Weird",
+              "detail": "A rota alternativa empurra o Kris e o jogador para um desfecho mais sombrio"
+            },
+            {
+              "label": "Spare",
+              "detail": "Deixe o nome de um inimigo amarelo e confirme SPARE para encerrar a luta em paz"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Segredos da luta do Kris em Deltarune",
+          "description": "Detalhes ocultos, interações incomuns e mecânicas pouco conhecidas ligadas ao Kris e à luta do Kris em Deltarune.",
+          "href": "/guide/deltarune-kris-fight-snowgrave",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Snowgrave",
+              "detail": "Uma rota oculta com encontros únicos e um tom bem diferente"
+            },
+            {
+              "label": "SOUL",
+              "detail": "Kris arranca o SOUL vermelho do próprio peito no fim de um capítulo"
+            },
+            {
+              "label": "Vessel",
+              "detail": "O vessel que você cria no início se conecta à disputa pelo controle"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Controles da luta do Kris em Deltarune",
+          "description": "Os comandos que você usa em uma luta do Kris em Deltarune, de confirmar comandos a conduzir o SOUL pelos padrões de projéteis.",
+          "href": "/mechanics/deltarune-kris-fight-soul-control",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Setas",
+              "detail": "Conduza o SOUL pelos padrões de projéteis durante a fase de esquiva"
+            },
+            {
+              "label": "FIGHT",
+              "detail": "Escolha o ataque do Kris e pare a barra de tempo perto do centro"
+            },
+            {
+              "label": "ACT",
+              "detail": "Use Check e as ações específicas de cada inimigo para desbloquear um SPARE"
+            },
+            {
+              "label": "SPARE",
+              "detail": "Confirme o aviso do nome em amarelo para encerrar a luta sem mortes"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações da luta do Kris em Deltarune",
+          "description": "Lançamentos confirmados de capítulos de DELTARUNE, anúncios oficiais e novidades da história que afetam as buscas pela luta do Kris em Deltarune.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Capítulos",
+              "detail": "DELTARUNE é lançado em capítulos episódicos, e os capítulos seguintes continuam a história"
+            },
+            {
+              "label": "Plataformas",
+              "detail": "DELTARUNE está disponível para PC, Mac, Nintendo Switch e PlayStation"
+            },
+            {
+              "label": "Oficial",
+              "detail": "Toby Fox divulga as novidades de lançamento no deltarune.com e nos canais oficiais"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas diretas às perguntas mais comuns sobre a luta do Kris em Deltarune.",
+      "items": [
+        {
+          "question": "O que é uma luta do Kris em Deltarune?",
+          "answer": "Uma luta do Kris em Deltarune é qualquer batalha liderada por Kris, o silencioso protagonista humano de DELTARUNE, além dos momentos de história em que Kris age contra o controle do jogador e dos encontros feitos por fãs que colocam o Kris como chefe. Todas as versões seguem o mesmo ciclo: planejar um turno, desviar de projéteis com o SOUL e escolher entre dano e misericórdia."
+        },
+        {
+          "question": "Como acumulo Pontos de Tensão durante uma luta do Kris em Deltarune?",
+          "answer": "Você acumula Pontos de Tensão em uma luta do Kris em Deltarune raspando nos projéteis sem tocá-los, defendendo em um turno que não dá para desviar com limpeza e acertando ACT. O TP é compartilhado por todo o grupo, então uma fase de esquiva limpa paga a cura do Ralsei e as magias de dano da Susie no turno seguinte."
+        },
+        {
+          "question": "Posso terminar uma luta do Kris em Deltarune sem matar ninguém?",
+          "answer": "Sim. Uma luta do Kris em Deltarune pode terminar em paz quando você usa as ACT certas e reduz o HP do inimigo o suficiente para o nome dele ficar amarelo. Confirme SPARE nesse momento e a batalha se encerra sem mortes, o que mantém intacta a rota de misericórdia do grupo."
+        },
+        {
+          "question": "Quais membros do grupo importam mais em uma luta do Kris em Deltarune?",
+          "answer": "Kris ancora cada luta do Kris em Deltarune com a maior lista de ACT e o comando Check; Ralsei mantém o grupo vivo com Heal Prayer e Pacify; Susie fornece o maior dano físico; e Noelle acrescenta magia de gelo e Sleep Mist quando entra. Sequenciar bem os turnos importa mais do que os atributos brutos."
+        },
+        {
+          "question": "Onde a luta do Kris em Deltarune acontece na história?",
+          "answer": "A luta do Kris em Deltarune se constrói ao longo dos capítulos episódicos e atinge o auge no fim do Capítulo 4, quando o controle sobre o Kris é disputado e o encontro se transforma em uma sequência roteirizada e narrativa. As escolhas que você fez antes na rota moldam o diálogo e o tom do final."
+        },
+        {
+          "question": "Preciso jogar Undertale antes de uma luta do Kris em Deltarune?",
+          "answer": "Não. DELTARUNE é uma história paralela a Undertale, então uma luta do Kris em Deltarune se sustenta sozinha, com elenco e sistema de batalha próprios. Fãs de Undertale vão reconhecer rostos e humor familiares, mas o combate, o SOUL e as mecânicas de misericórdia são explicados desde o começo do jogo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar a luta do Kris?",
+      "description": "Da sua primeira batalha aos combates contra chefes do fim do jogo, nossa wiki comunitária cobre o combate, os segredos e as estratégias de DELTARUNE com guias gratuitos e atualizados.",
+      "primary": "Leia o guia da luta do Kris",
+      "secondary": "Jogue DELTARUNE na Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias da luta do Kris em Deltarune",
+    "overviewDescription": "Guias passo a passo da luta do Kris em Deltarune cobrindo o básico para iniciantes, estratégias contra chefes, rotas como Snowgrave e encontros específicos de cada capítulo."
+  },
+  "combat": {
+    "overviewTitle": "Combate da luta do Kris em Deltarune",
+    "overviewDescription": "Análises de combate das lutas do Kris em Deltarune, de runs solo e controle do SOUL a confrontos como Kris vs Susie, Kris vs Ralsei e Kris vs Sans."
+  },
+  "characters": {
+    "overviewTitle": "Personagens da luta do Kris em Deltarune",
+    "overviewDescription": "Perfis dos personagens das lutas do Kris em Deltarune, incluindo Kris, Susie, Ralsei, Noelle, Asriel e o Roaring Knight."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas da luta do Kris em Deltarune",
+    "overviewDescription": "Como as lutas do Kris em Deltarune realmente funcionam: o SOUL, o TP, os comandos ACT, o Kris agindo sozinho e as regras por trás do controle do jogador."
+  },
+  "themes": {
+    "overviewTitle": "Temas da luta do Kris em Deltarune",
+    "overviewDescription": "Música, sprites e motivos ligados às lutas do Kris em Deltarune, incluindo referências a Megalovania, imagens de anjo caído e temas sobre destino."
+  },
+  "fangames": {
+    "overviewTitle": "Fan Games da luta do Kris em Deltarune",
+    "overviewDescription": "Jogos feitos por fãs sobre a luta do Kris em Deltarune, recriações no Roblox, simuladores de luta, animações e projetos baseados no vessel."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogue DELTARUNE",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leituras relacionadas",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Deltarune Kris Fight Wiki",
+    "about": "A Deltarune Kris Fight Wiki é um hub de guias independente feito por fãs que cobre as batalhas do Kris, estratégias contra chefes, mecânicas de batalha, personagens e conhecimentos essenciais de combate tanto para jogadores novos quanto veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Deltarune Kris Fight Wiki. Sem afiliação com Toby Fox ou DELTARUNE.",
+    "description": "Hub de guias de DELTARUNE feito por fãs. Lutas do Kris, chefes, mecânicas de batalha e estratégias da história.",
+    "playGame": "Jogue DELTARUNE na Steam",
+    "officialDiscord": "Comunidade r/Deltarune",
+    "officialYoutube": "UNDERTALE / DELTARUNE Official",
+    "vvBuilder": "Hub de guias da luta do Kris",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Guias de personagens",
+    "bossGuides": "Guias de combate",
+    "buildGuide": "Guias de mecânicas",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}
