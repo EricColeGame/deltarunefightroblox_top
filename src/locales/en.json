@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "combat": "Combat",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "themes": "Themes",
+    "fangames": "Fangames"
   },
   "home": {
     "meta": {
@@ -417,7 +423,30 @@
       "secondary": "Play DELTARUNE on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Deltarune Kris Fight Guides",
+    "overviewDescription": "Step-by-step Deltarune Kris fight guides covering beginner basics, boss strategies, routes like Snowgrave, and chapter-specific encounters."
+  },
+  "combat": {
+    "overviewTitle": "Deltarune Kris Fight Combat",
+    "overviewDescription": "Combat breakdowns for Deltarune Kris fights, from solo runs and SOUL control to matchups like Kris vs Susie, Kris vs Ralsei, and Kris vs Sans."
+  },
+  "characters": {
+    "overviewTitle": "Deltarune Kris Fight Characters",
+    "overviewDescription": "Profiles for the characters in Deltarune Kris fights, including Kris, Susie, Ralsei, Noelle, Asriel, and the Roaring Knight."
+  },
+  "mechanics": {
+    "overviewTitle": "Deltarune Kris Fight Mechanics",
+    "overviewDescription": "How Deltarune Kris fight battles actually work: the SOUL, TP, ACT commands, Kris acting alone, and the rules behind player control."
+  },
+  "themes": {
+    "overviewTitle": "Deltarune Kris Fight Themes",
+    "overviewDescription": "Music, sprites, and motifs tied to Deltarune Kris fights, including Megalovania nods, fallen angel imagery, and destiny themes."
+  },
+  "fangames": {
+    "overviewTitle": "Deltarune Kris Fight Fan Games",
+    "overviewDescription": "Fan-made Deltarune Kris fight games, Roblox recreations, fight simulators, animations, and vessel-based projects."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +477,9 @@
     "officialYoutube": "UNDERTALE / DELTARUNE Official",
     "vvBuilder": "Kris Fight Guide Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Character Guides",
+    "bossGuides": "Combat Guides",
+    "buildGuide": "Mechanics Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
